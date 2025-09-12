@@ -1,5 +1,5 @@
 package contactBook;
-//olá
+//olá e adeus
 
 public class Contact {
     private String name;
